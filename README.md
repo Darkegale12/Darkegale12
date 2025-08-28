@@ -16,9 +16,6 @@
   </tr>
 </table>
 
-
-
-
 ---
 
 **About Me**
@@ -33,8 +30,8 @@ I specialize in **AI/ML**, **modern web technologies**, and delivering **excepti
 
 **🌐 Contact**
 
-- 💼 **[LinkedIn](https://www.linkedin.com/in/vishwajeet-more-68178a328)**
-- 📧 **[Email](mailto:Vishwajeet12.messi@gmail.com)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/vishwajeet-more-68178a328)**  
+- 📧 **[Email](mailto:Vishwajeet12.messi@gmail.com)**  
 
 ---
 
@@ -106,10 +103,6 @@ I specialize in **AI/ML**, **modern web technologies**, and delivering **excepti
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkegale12&theme=github-compact" width="85%"/>
 </p>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Darkegale12&style=flat-square&color=brightgreen" alt="GitHub Profile Views" />
-</p>
 ---
 
 **🚀 Featured Projects**
@@ -119,13 +112,17 @@ I specialize in **AI/ML**, **modern web technologies**, and delivering **excepti
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkegale12&repo=Spring-Boot-Student-Mangement&theme=tokyonight" />
   </a>
   <a href="https://github.com/Darkegale12/Chatgpt-clone-using-AI-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkegale12&repo=Chatgpt-clone-using-AI&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkegale12&repo=Chatgpt-clone-using-AI-&theme=tokyonight" />
   </a>
 </p>
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Darkegale12&style=flat-square&color=brightgreen" alt="GitHub Profile Views" />
+</p>
 
+---
 
 **🤝 Let’s Connect!**
 
