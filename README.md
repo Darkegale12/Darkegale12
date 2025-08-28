@@ -1,9 +1,15 @@
+<h1 align="left">👋 Hi, I'm Vishwajeet More</h1>
 <p align="left">
-  <img src="https://github.com/Darkegale12/Darkegale12/blob/main/linkdin my image.jpg" width="160" height="160" style="border-radius:50%; margin-right:20px;" align="left"/>
+💻 Aspiring Software Engineer | AI/ML Enthusiast | Full Stack Developer
 </p>
 
-# 👋 Hi, I'm Vishwajeet More
-💻 Aspiring Software Engineer | AI/ML Enthusiast | Full Stack Developer
+<p align="right">
+  <img src="https://github.com/Darkegale12/Darkegale12/blob/main/linkdin%20my%20image.jpg" 
+       width="220" 
+       style="border-radius:50%; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);" 
+       alt="Vishwajeet More"/>
+</p>
+
 
 <!-- Typing Animation -->
 <p align="center">
