@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/Darkegale12/Darkegale12/blob/main/profile.jpg" width="160" height="160" style="border-radius:50%; margin-right:20px;" align="left"/>
+  <img src="https://github.com/Darkegale12/Darkegale12/blob/main/linkdin my image.jpg" width="160" height="160" style="border-radius:50%; margin-right:20px;" align="left"/>
 </p>
 
 # 👋 Hi, I'm Vishwajeet More
@@ -10,10 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=AI+%26+ML+Explorer;Full-Stack+Developer;Building+Intelligent+%26+Scalable+Solutions;Always+Learning+New+Tech" />
 </p>
 
-<!-- Animated Waving Hand SVG -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="50" />
-</p>
 
 ---
 
