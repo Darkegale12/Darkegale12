@@ -113,14 +113,6 @@ I specialize in **AI/ML**, **modern web technologies**, and delivering **excepti
 
 ---
 
-**🐍 Contribution Snake**
-
-<p align="center">
-  <img src="https://github.com/Darkegale12/Darkegale12/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
 **🚀 Featured Projects**
 
 <p align="center">
