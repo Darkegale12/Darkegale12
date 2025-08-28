@@ -103,6 +103,11 @@ I specialize in **AI/ML**, **modern web technologies**, and delivering **excepti
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkegale12&theme=github-compact" width="85%"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Darkegale12&style=flat-square&color=brightgreen" alt="GitHub Profile Views" />
+</p>
+
+
 ---
 
 **🚀 Featured Projects**
@@ -118,11 +123,7 @@ I specialize in **AI/ML**, **modern web technologies**, and delivering **excepti
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Darkegale12&style=flat-square&color=brightgreen" alt="GitHub Profile Views" />
-</p>
 
----
 
 **🤝 Let’s Connect!**
 
