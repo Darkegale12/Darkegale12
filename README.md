@@ -18,11 +18,6 @@
 
 
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=AI+%26+ML+Explorer;Full-Stack+Developer;Building+Intelligent+%26+Scalable+Solutions;Always+Learning+New+Tech" />
-</p>
-
 
 ---
 
