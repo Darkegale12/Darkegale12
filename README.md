@@ -1,14 +1,21 @@
-<h1 align="left">👋 Hi, I'm Vishwajeet More</h1>
-<p align="left">
-💻 Aspiring Software Engineer | AI/ML Enthusiast | Full Stack Developer
-</p>
+<table>
+  <tr>
+    <td width="70%" align="left">
+      <h1>👋 Hi, I'm Vishwajeet More</h1>
+      <p>💻 Aspiring Software Engineer | AI/ML Enthusiast | Full Stack Developer</p>
+      <p>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=AI+%26+ML+Explorer;Full-Stack+Developer;Building+Intelligent+%26+Scalable+Solutions;Always+Learning+New+Tech" />
+      </p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://github.com/Darkegale12/Darkegale12/blob/main/linkdin%20my%20image.jpg" 
+           width="220" 
+           style="border-radius:50%; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);" 
+           alt="Vishwajeet More"/>
+    </td>
+  </tr>
+</table>
 
-<p align="right">
-  <img src="https://github.com/Darkegale12/Darkegale12/blob/main/linkdin%20my%20image.jpg" 
-       width="220" 
-       style="border-radius:50%; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);" 
-       alt="Vishwajeet More"/>
-</p>
 
 
 <!-- Typing Animation -->
