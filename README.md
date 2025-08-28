@@ -1,5 +1,9 @@
-<!-- Big Intro -->
-<h1 align="center">👋🏼 Hey, I'm <strong>Vishwajeet</strong> | AI & Full-Stack Enthusiast 🚀</h1>
+<p align="left">
+  <img src="https://github.com/Darkegale12/Darkegale12/blob/main/profile.jpg" width="160" height="160" style="border-radius:50%; margin-right:20px;" align="left"/>
+</p>
+
+# 👋 Hi, I'm Vishwajeet More
+💻 Aspiring Software Engineer | AI/ML Enthusiast | Full Stack Developer
 
 <!-- Typing Animation -->
 <p align="center">
