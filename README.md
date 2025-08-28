@@ -1,16 +1,133 @@
-## Hi there 👋
+<!-- Big Intro -->
+<h1 align="center">👋🏼 Hey, I'm <strong>Vishwajeet</strong> | AI & Full-Stack Enthusiast 🚀</h1>
 
-<!--
-**Darkegale12/Darkegale12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=AI+%26+ML+Explorer;Full-Stack+Developer;Building+Intelligent+%26+Scalable+Solutions;Always+Learning+New+Tech" />
+</p>
 
-Here are some ideas to get you started:
+<!-- Animated Waving Hand SVG -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="50" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**About Me**
+
+I'm an **AI & Full-Stack Enthusiast** passionate about building **intelligent solutions** and **scalable applications**.  
+I specialize in **AI/ML**, **modern web technologies**, and delivering **exceptional user experiences**.  
+
+- 📍 **Location**: Pune, India  
+- 💼 **Open for internships and collaborations**  
+
+---
+
+**🌐 Contact**
+
+- 💼 **[LinkedIn](https://www.linkedin.com/in/vishwajeet-more-68178a328)**
+- 📧 **[Email](mailto:Vishwajeet12.messi@gmail.com)**
+
+---
+
+**🧠 Tech Stack**
+
+**Backend:**
+
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+**Frontend:**
+
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+**Tools & Platforms:**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Workbench-336791?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**Languages:**
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+**AI/ML:**
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Handling-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-512BD4?style=for-the-badge&logo=azurepipelines&logoColor=white" />
+</p>
+
+---
+
+**📊 GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Darkegale12&show_icons=true&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darkegale12&theme=tokyonight" width="450"/>
+</p>
+
+---
+
+**📈 Contribution Graph**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkegale12&theme=github-compact" width="85%"/>
+</p>
+
+---
+
+**🐍 Contribution Snake**
+
+<p align="center">
+  <img src="https://github.com/Darkegale12/Darkegale12/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+**🚀 Featured Projects**
+
+<p align="center">
+  <a href="https://github.com/Darkegale12/Spring-Boot-Student-Mangement">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkegale12&repo=Spring-Boot-Student-Mangement&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Darkegale12/Chatgpt-clone-using-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkegale12&repo=Chatgpt-clone-using-AI&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Darkegale12&style=flat-square&color=brightgreen" alt="GitHub Profile Views" />
+</p>
+
+---
+
+**🤝 Let’s Connect!**
+
+I’m always open to **collaborations, internships, and hackathon projects**.  
+Feel free to reach out and let’s build something cool together 🚀
