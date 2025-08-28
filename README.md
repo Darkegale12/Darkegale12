@@ -112,6 +112,10 @@ I specialize in **AI/ML**, **modern web technologies**, and delivering **excepti
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Darkegale12&style=flat-square&color=brightgreen" alt="GitHub Profile Views" />
+</p>
+
 
 **🚀 Featured Projects**
 
@@ -126,11 +130,7 @@ I specialize in **AI/ML**, **modern web technologies**, and delivering **excepti
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Darkegale12&style=flat-square&color=brightgreen" alt="GitHub Profile Views" />
-</p>
 
----
 
 **🤝 Let’s Connect!**
 
