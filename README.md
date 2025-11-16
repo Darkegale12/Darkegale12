@@ -116,8 +116,8 @@ I specialize in **AI/ML**, **modern web technologies**, and delivering **excepti
   <a href="https://github.com/Darkegale12/Spring-Boot-Student-Mangement">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkegale12&repo=Spring-Boot-Student-Mangement&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Darkegale12/Chatgpt-clone-using-AI-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkegale12&repo=Chatgpt-clone-using-AI-&theme=tokyonight" />
+  <a href="https://github.com/Darkegale12//AyurSutra-Panchakarma-Management-Website-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkegale12&repo=/AyurSutra-Panchakarma-Management-Website--&theme=tokyonight" />
   </a>
 </p>
 
