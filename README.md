@@ -114,12 +114,14 @@ I specialize in **AI/ML**, **modern web technologies**, and delivering **excepti
 
 <p align="center">
   <a href="https://github.com/Darkegale12/Spring-Boot-Student-Mangement">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkegale12&repo=Spring-Boot-Student-Mangement&theme=tokyonight" alt="Spring Boot Student Management" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkegale12&repo=Spring-Boot-Student-Mangement&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Darkegale12/AyurSutra-Panchakarma-Management-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkegale12&repo=AyurSutra-Panchakarma-Management-Website&theme=tokyonight" alt="AyurSutra Panchakarma Website" />
+
+  <a href="https://github.com/Darkegale12/AyurSutra-Panchakarma-Management-Website-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkegale12&repo=AyurSutra-Panchakarma-Management-Website-&theme=tokyonight" />
   </a>
 </p>
+
 
 ---
 
